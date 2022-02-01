@@ -13,6 +13,9 @@ class Node{
 
 public class BinarysearchTree {
     Node root;
+
+    
+
     Node Rinsert(Node node,int data){
         Node newnode=null;
         if(node==null){
